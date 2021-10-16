@@ -11,4 +11,4 @@
 <h3>Links</h3>
 <p>About <a href="https://github.com">our design</a></p>
 </div>
-<!-- Hi -->
+<!-- Hi. -->
