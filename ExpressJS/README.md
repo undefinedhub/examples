@@ -4,5 +4,5 @@
 <h4>Verifed Project</h4>
 <h1></h1>
 <h3>Description</h3>
-<p>Make a 404 service fast.</p>
+<p>Make a simple website with Express.JS and Node.JS fast.</p>
 </div>
